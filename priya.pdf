@@ -1,0 +1,12 @@
+--2017-04-10 14:28:32--  https://www.tutorialspoint.com/dbms/pdf/database_normalization.pdf
+Resolving www.tutorialspoint.com (www.tutorialspoint.com)... 117.18.237.42
+Connecting to www.tutorialspoint.com (www.tutorialspoint.com)|117.18.237.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90080 (88K) [application/pdf]
+Saving to: ‘database_normalization.pdf.2’
+
+     0K .......... .......... .......... .......... .......... 56%  218K 0s
+    50K .......... .......... .......... .......              100%  471K=0.3s
+
+2017-04-10 14:28:32 (284 KB/s) - ‘database_normalization.pdf.2’ saved [90080/90080]
+
